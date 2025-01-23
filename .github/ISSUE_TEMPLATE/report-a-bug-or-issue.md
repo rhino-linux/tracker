@@ -2,7 +2,7 @@
 name: Report a bug or issue
 about: File a bug report to make us aware of issues issues you'd like solved in the
   distribution.
-title: 'bug: [issue]'
+title: 'bug(<repo>): [Title]'
 labels: Bug, triage
 assignees: ajstrongdev, oklopfer
 
