@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Request a feature to be included in Rhino Linux
-title: 'Feat: [title]'
+title: 'prop(<repo>): [title]'
 labels: Feature, triage
 assignees: ajstrongdev, oklopfer
 
